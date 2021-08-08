@@ -1,0 +1,9 @@
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\bin\Debug\netcoreapp3.1\ShopBridge.Entities.deps.json
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\bin\Debug\netcoreapp3.1\ShopBridge.Entities.dll
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\bin\Debug\netcoreapp3.1\ShopBridge.Entities.pdb
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\obj\Debug\netcoreapp3.1\ShopBridge.Entities.csprojAssemblyReference.cache
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\obj\Debug\netcoreapp3.1\ShopBridge.Entities.AssemblyInfoInputs.cache
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\obj\Debug\netcoreapp3.1\ShopBridge.Entities.AssemblyInfo.cs
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\obj\Debug\netcoreapp3.1\ShopBridge.Entities.csproj.CoreCompileInputs.cache
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\obj\Debug\netcoreapp3.1\ShopBridge.Entities.dll
+E:\Project\.Net Core\ShopBridge\ShopBridge.Entities\obj\Debug\netcoreapp3.1\ShopBridge.Entities.pdb
